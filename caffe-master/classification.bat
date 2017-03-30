@@ -1,0 +1,2 @@
+.\bin\classification.exe E:\myproject\caffe-windows-master\caffe-windows-master\examples\mnist\Mnist_quick_LeNet.prototxt E:\myproject\caffe-windows-master\caffe-windows-master\examples\mnist\lenet_iter_3500.caffemodel E:\myproject\caffe-windows-master\caffe-windows-master\examples\mnist\mnist_mean.binaryproto E:\myproject\caffe-windows-master\caffe-windows-master\examples\mnist\synset_words.txt E:\myproject\caffe-windows-master\caffe-windows-master\examples\mnist\3.jpg
+pause
